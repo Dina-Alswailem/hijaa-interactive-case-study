@@ -1,6 +1,6 @@
 # هِجاء — Interactive Arabic Learning Case Study
 
-![هِجاء — الحرف يُرى، ويُسمع، ويُلمس](public/og.png)
+![هِجاء — الحرف يُرى، ويُسمع، ويُلمس](public/og.webp)
 
 **هِجاء** is a multisensory Arabic learning experience designed for children with learning difficulties. The iPad app helps learners recognize Arabic letters through sight, sound, touch, coloring, and word-building activities.
 
