@@ -21,17 +21,17 @@ export const metadata: Metadata = {
     type: "website",
     locale: "ar_SA",
     images: [{
-      url: "/assets/hijaa-original/app-icon.jpg",
-      width: 1024,
-      height: 1024,
-      alt: "أيقونة تطبيق هِجاء الأصلية",
+      url: "/og.webp",
+      width: 1200,
+      height: 630,
+      alt: "هِجاء — الحرف يُرى ويُسمع ويُلمس",
     }],
   },
   twitter: {
     card: "summary_large_image",
     title: "هِجاء — حرفًا حرفًا، تبدأ الكلمة",
     description: "تجربة تعليمية عربية متعددة الحواس.",
-    images: ["/assets/hijaa-original/app-icon.jpg"],
+    images: ["/og.webp"],
   },
   icons: {
     icon: "/assets/hijaa-original/app-icon.jpg",
