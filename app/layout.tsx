@@ -8,7 +8,7 @@ import "@fontsource/ibm-plex-sans-arabic/700.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://hijaa-case-study.dina1-4075.chatgpt.site"),
+  metadataBase: new URL("https://hijaa-casestudy.dinaalswailem.workers.dev"),
   title: "هِجاء — حرفًا حرفًا، تبدأ الكلمة",
   description:
     "دراسة حالة تفاعلية لتطبيق هِجاء: تجربة iPad عربية تساعد الأطفال ذوي صعوبات التعلّم على اكتشاف الحروف بالصوت والصورة واللمس.",
