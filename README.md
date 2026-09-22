@@ -4,7 +4,7 @@
 
 **هِجاء** is a multisensory Arabic learning experience designed for children with learning difficulties. The iPad app helps learners recognize Arabic letters through sight, sound, touch, coloring, and word-building activities.
 
-[View the live interactive case study](https://hijaa-case-study.dina1-4075.chatgpt.site) · [Portfolio](https://dina-portfolio.dina1-4075.workers.dev) · [Figma](https://www.figma.com/design/yuNUs7ty86nQGsp91CQvi8/%D9%87%D9%90%D8%AC%D8%A7%D8%A1?node-id=0-1) · [LinkedIn](https://www.linkedin.com/in/dina-alswailem-5a4786280)
+[View the live interactive case study](https://hijaa-casestudy.dinaalswailem.workers.dev) · [Portfolio](https://dina-portfolio.dina1-4075.workers.dev) · [Figma](https://www.figma.com/design/yuNUs7ty86nQGsp91CQvi8/%D9%87%D9%90%D8%AC%D8%A7%D8%A1?node-id=0-1) · [LinkedIn](https://www.linkedin.com/in/dina-alswailem-5a4786280)
 
 ## Why the name “هِجاء”?
 
