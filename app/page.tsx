@@ -500,7 +500,7 @@ export default function Home() {
             <div className="social-links">
               <a href="https://www.linkedin.com/in/dina-alswailem-5a4786280" target="_blank" rel="noreferrer"><i>in</i> LinkedIn</a>
               <a href="https://github.com/Dina-Alswailem" target="_blank" rel="noreferrer"><i>&lt;/&gt;</i> GitHub</a>
-              <a href="https://dina-portfolio.dina1-4075.workers.dev" target="_blank" rel="noreferrer"><i>↗</i> Portfolio</a>
+              <a href="https://dina-portfolio.dinaalswailem.workers.dev" target="_blank" rel="noreferrer"><i>↗</i> Portfolio</a>
             </div>
           </div>
         </div>
@@ -516,7 +516,7 @@ export default function Home() {
             <a href="https://www.figma.com/design/yuNUs7ty86nQGsp91CQvi8/%D9%87%D9%90%D8%AC%D8%A7%D8%A1?node-id=0-1" target="_blank" rel="noreferrer">فتح ملف Figma <ArrowIcon /></a>
             <a href="https://www.linkedin.com/in/dina-alswailem-5a4786280" target="_blank" rel="noreferrer">LinkedIn <ArrowIcon /></a>
             <a href="https://github.com/Dina-Alswailem" target="_blank" rel="noreferrer">GitHub <ArrowIcon /></a>
-            <a href="https://dina-portfolio.dina1-4075.workers.dev" target="_blank" rel="noreferrer">Portfolio <ArrowIcon /></a>
+            <a href="https://dina-portfolio.dinaalswailem.workers.dev" target="_blank" rel="noreferrer">Portfolio <ArrowIcon /></a>
             <a href="#top">العودة للأعلى <ArrowIcon /></a>
           </div>
         </div>
