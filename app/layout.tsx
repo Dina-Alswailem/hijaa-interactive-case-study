@@ -47,6 +47,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ar" dir="rtl">
+      <head>
+        <link rel="icon" href="/assets/hijaa-original/app-icon.jpg" type="image/jpeg" />
+        <link rel="shortcut icon" href="/assets/hijaa-original/app-icon.jpg" type="image/jpeg" />
+        <link rel="apple-touch-icon" href="/assets/hijaa-original/app-icon.jpg" />
+      </head>
       <body>{children}</body>
     </html>
   );
