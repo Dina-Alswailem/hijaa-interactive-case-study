@@ -45,7 +45,7 @@ const colors = ["#f4a7c1", "#91a8ff", "#a8e8a0", "#ffd76a", "#c9a5ff"];
 
 const teamStickers = [
   { src: "/assets/hijaa-team/member-01.png", alt: "ستيكر لعضوة من فريق هِجاء" },
-  { src: "/assets/hijaa-team/member-02.png", alt: "ستيكر لعضوة من فريق هِجاء بنظارة على شكل نجمتين" },
+  { src: "/assets/hijaa-team/member-02.webp", alt: "ستيكر لعضوة من فريق هِجاء بنظارة على شكل نجمتين" },
   { src: "/assets/hijaa-team/member-03.png", alt: "ستيكر لعضوة من فريق هِجاء ترتدي خوذة" },
   { src: "/assets/hijaa-team/member-04.png", alt: "ستيكر لعضوة من فريق هِجاء تشير بعلامة الإعجاب" },
 ];
@@ -374,7 +374,7 @@ export default function Home() {
               </div>
               <div className="journey-visuals">
                 <img className="ready-mockup" src="/assets/hijaa-original/main-screen.png" alt="الصفحة الرئيسية في تطبيق هِجاء" loading="lazy" />
-                <Device src="/assets/hijaa-original/letter-grid-clear.png" alt="واجهة اختيار حرف من الحروف العربية" className="journey-device" />
+                <Device src="/assets/hijaa-original/letter-grid-clear.webp" alt="واجهة اختيار حرف من الحروف العربية" className="journey-device" />
               </div>
             </article>
             <article className="journey-chapter learn-chapter" data-reveal>
@@ -384,7 +384,7 @@ export default function Home() {
                 <p>يمكن التنقّل بين الحروف بهدوء، ثم تأكيد الحرف المختار. وفي التلوين يركّز الطفل على شكل الحرف من خلال اللون واللمس والصوت.</p>
               </div>
               <div className="journey-visuals reverse">
-                <Device src="/assets/hijaa-original/letter-carousel-clear.png" alt="واجهة استعراض الحروف حرفًا بعد حرف" className="journey-device" />
+                <Device src="/assets/hijaa-original/letter-carousel-clear.webp" alt="واجهة استعراض الحروف حرفًا بعد حرف" className="journey-device" />
                 <img className="ready-mockup" src="/assets/hijaa-original/coloring-screen.png" alt="واجهة تلوين حرف العين" loading="lazy" />
               </div>
             </article>
