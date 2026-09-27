@@ -7,31 +7,40 @@ import "@fontsource/ibm-plex-sans-arabic/600.css";
 import "@fontsource/ibm-plex-sans-arabic/700.css";
 import "./globals.css";
 
+const siteUrl = "https://hijaa-casestudy.dinaalswailem.workers.dev";
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://hijaa-casestudy.dinaalswailem.workers.dev"),
-  title: "هِجاء — حرفًا حرفًا، تبدأ الكلمة",
+  metadataBase: new URL(siteUrl),
+  title: "Hijaa — Arabic Learning App for Children",
   description:
-    "دراسة حالة تفاعلية لتطبيق هِجاء: تجربة iPad عربية تساعد الأطفال ذوي صعوبات التعلّم على اكتشاف الحروف بالصوت والصورة واللمس.",
-  keywords: ["هِجاء", "تعليم الحروف العربية", "صعوبات التعلّم", "UX UI", "تطبيق تعليمي"],
-  authors: [{ name: "دينا السويلم" }],
-  creator: "دينا السويلم",
+    "Hijaa is an educational iPad experience designed to help children develop Arabic writing skills through interactive and engaging activities.",
+  keywords: ["Hijaa", "Arabic learning", "Arabic writing", "children", "UX UI", "educational app"],
+  authors: [{ name: "Dina Alswailem" }],
+  creator: "Dina Alswailem",
+  alternates: { canonical: siteUrl },
   openGraph: {
-    title: "هِجاء — حرفًا حرفًا، تبدأ الكلمة",
-    description: "تجربة تعليمية عربية متعددة الحواس للأطفال ذوي صعوبات التعلّم.",
+    title: "Hijaa — Arabic Learning App for Children",
+    description:
+      "An educational iPad experience for developing Arabic writing skills through interactive and engaging activities.",
+    url: siteUrl,
+    siteName: "Hijaa",
     type: "website",
-    locale: "ar_SA",
+    locale: "en_US",
     images: [{
-      url: "/og.webp",
+      url: `${siteUrl}/og.webp`,
+      secureUrl: `${siteUrl}/og.webp`,
       width: 1200,
       height: 630,
-      alt: "هِجاء — الحرف يُرى ويُسمع ويُلمس",
+      alt: "Hijaa — Arabic Learning App for Children",
+      type: "image/webp",
     }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "هِجاء — حرفًا حرفًا، تبدأ الكلمة",
-    description: "تجربة تعليمية عربية متعددة الحواس.",
-    images: ["/og.webp"],
+    title: "Hijaa — Arabic Learning App for Children",
+    description:
+      "An educational iPad experience for developing Arabic writing skills through interactive activities.",
+    images: [`${siteUrl}/og.webp`],
   },
   icons: {
     icon: "/assets/hijaa-original/app-icon.jpg",
